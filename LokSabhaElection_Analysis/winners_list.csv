@@ -1,0 +1,544 @@
+StateName,Parliament Constituency,Winning Candidate,Total Votes,Margin,Party name
+Andaman & Nicobar Islands,Andaman & Nicobar Islands(1),BISHNU PADA RAY,102436,24396,Bharatiya Janata Party - BJP
+Andhra Pradesh,Srikakulam(2),KINJARAPU RAMMOHAN NAIDU,754328,327901,Telugu Desam - TDP
+Andhra Pradesh,Vizianagaram(3),APPALANAIDU KALISETTI,743113,249351,Telugu Desam - TDP
+Andhra Pradesh,Visakhapatnam(4),SRIBHARAT MATHUKUMILI,907467,504247,Telugu Desam - TDP
+Andhra Pradesh,Amalapuram (SC)(7),G M HARISH (BALAYOGI),796981,342196,Telugu Desam - TDP
+Andhra Pradesh,Eluru(10),PUTTA MAHESH KUMAR,746351,181857,Telugu Desam - TDP
+Andhra Pradesh,Vijayawada(12),KESINENI SIVANATH (CHINNI),794154,282085,Telugu Desam - TDP
+Andhra Pradesh,Guntur(13),DR CHANDRA SEKHAR PEMMASANI,864948,344695,Telugu Desam - TDP
+Andhra Pradesh,Narsaraopet(14),LAVU SRIKRISHNA DEVARAYALU,807996,159729,Telugu Desam - TDP
+Andhra Pradesh,Bapatla (SC)(15),KRISHNA PRASAD TENNETI,717493,208031,Telugu Desam - TDP
+Andhra Pradesh,Ongole(16),MAGUNTA SREENIVASULU REDDY,701894,50199,Telugu Desam - TDP
+Andhra Pradesh,Nandyal(17),DR BYREDDY SHABARI,701131,111975,Telugu Desam - TDP
+Andhra Pradesh,Kurnoolu(18),BASTIPATI NAGARAJU PANCHALINGALA,658914,111298,Telugu Desam - TDP
+Andhra Pradesh,Ananthapur(19),AMBICA G LAKSHMINARAYANA VALMIKI,768245,188555,Telugu Desam - TDP
+Andhra Pradesh,Hindupur(20),B K PARTHASARATHI,725534,132427,Telugu Desam - TDP
+Andhra Pradesh,Nellore(22),PRABHAKAR REDDY VEMIREDDY,766202,245902,Telugu Desam - TDP
+Andhra Pradesh,Chittoor(SC)(25),DAGGUMALLA PRASADA RAO,778071,220479,Telugu Desam - TDP
+Andhra Pradesh,Araku (ST)(1),GUMMA THANUJA RANI,477005,50580,Yuvajana Sramika Rythu Congress Party - YSRCP
+Andhra Pradesh,Kadapa(21),Y. S. AVINASH REDDY,605143,62695,Yuvajana Sramika Rythu Congress Party - YSRCP
+Andhra Pradesh,Thirupathi(SC)(23),GURUMOORTHY MADDILA,632228,14569,Yuvajana Sramika Rythu Congress Party - YSRCP
+Andhra Pradesh,Rajampet(24),P V MIDHUN REDDY,644844,76071,Yuvajana Sramika Rythu Congress Party - YSRCP
+Andhra Pradesh,Anakapalle(5),C.M.RAMESH,762069,296530,Bharatiya Janata Party - BJP
+Andhra Pradesh,Rajahmundry(8),DAGGUBATI PURANDHESHWARI,726515,239139,Bharatiya Janata Party - BJP
+Andhra Pradesh,Narsapuram(9),BHUPATHI RAJU SRINIVASA VARMA (B.J.P.VARMA),707343,276802,Bharatiya Janata Party - BJP
+Andhra Pradesh,Kakinada(6),TANGELLA UDAY SRINIVAS (TEA TIME UDAY),729699,229491,Janasena Party - JnP
+Andhra Pradesh,Machilipatnam(11),BALASHOWRY VALLABHANENI,724439,223179,Janasena Party - JnP
+Arunachal Pradesh,Arunachal West(1),KIREN RIJIJU,205417,100738,Bharatiya Janata Party - BJP
+Arunachal Pradesh,Arunachal East(2),TAPIR GAO,145581,30421,Bharatiya Janata Party - BJP
+Assam,Darrang-Udalguri(4),DILIP SAIKIA,868387,329012,Bharatiya Janata Party - BJP
+Assam,Guwahati(5),BIJULI KALITA MEDHI,894887,251090,Bharatiya Janata Party - BJP
+Assam,Diphu(6),AMARSING TISSO,334620,147603,Bharatiya Janata Party - BJP
+Assam,Karimganj(7),KRIPANATH MALLAH,545093,18360,Bharatiya Janata Party - BJP
+Assam,Silchar (8),PARIMAL SUKLABAIDYA,652405,264311,Bharatiya Janata Party - BJP
+Assam,Kaziranga(10),KAMAKHYA PRASAD TASA,897043,248947,Bharatiya Janata Party - BJP
+Assam,Sonitpur(11),RANJIT DUTTA,775788,361408,Bharatiya Janata Party - BJP
+Assam,Lakhimpur(12),PRADAN BARUAH,663122,201257,Bharatiya Janata Party - BJP
+Assam,Dibrugarh(13),SARBANANDA SONOWAL,693762,279321,Bharatiya Janata Party - BJP
+Assam,Dhubri (2),RAKIBUL HUSSAIN,1471885,1012476,Indian National Congress - INC
+Assam,Nagaon(9),PRADYUT BORDOLOI,788850,212231,Indian National Congress - INC
+Assam,Jorhat(14),GAURAV GOGOI,751771,144393,Indian National Congress - INC
+Assam,Kokrajhar (1),JOYANTA BASUMATARY,488995,51583,"United People’s Party, Liberal - UPPL"
+Assam,Barpeta(3),PHANI BHUSAN CHOUDHURY,860113,222351,Asom Gana Parishad - AGP
+Bihar,Valmiki Nagar (1),SUNIL KUMAR,523422,98675,Janata Dal  (United) - JD(U)
+Bihar,Sheohar(4),LOVELY ANAND,476612,29143,Janata Dal  (United) - JD(U)
+Bihar,Sitamarhi(5),DEVESH CHANDRA THAKUR,515719,51356,Janata Dal  (United) - JD(U)
+Bihar,Jhanjharpur(7),RAMPRIT MANDAL,533032,184169,Janata Dal  (United) - JD(U)
+Bihar,Supaul(8),DILESHWAR KAMAIT,595038,169803,Janata Dal  (United) - JD(U)
+Bihar,Madhepura(13),DINESH CHANDRA YADAV,640649,174534,Janata Dal  (United) - JD(U)
+Bihar,Gopalganj(17),DR. ALOK KUMAR SUMAN,511866,127180,Janata Dal  (United) - JD(U)
+Bihar,Siwan(18),VIJAYLAKSHMI DEVI,386508,92857,Janata Dal  (United) - JD(U)
+Bihar,Bhagalpur(26),AJAY KUMAR MANDAL,536031,104868,Janata Dal  (United) - JD(U)
+Bihar,Banka(27),GIRIDHARI YADAV,506678,103844,Janata Dal  (United) - JD(U)
+Bihar,Munger(28),RAJIV RANJAN SINGH ALIAS LALAN SINGH,550146,80870,Janata Dal  (United) - JD(U)
+Bihar,Nalanda(29),KAUSHALENDRA KUMAR,559422,169114,Janata Dal  (United) - JD(U)
+Bihar,Paschim Champaran(2),DR.SANJAY JAISWAL,580421,136568,Bharatiya Janata Party - BJP
+Bihar,Purvi Champaran(3),RADHA MOHAN SINGH,542193,88287,Bharatiya Janata Party - BJP
+Bihar,Madhubani(6),ASHOK KUMAR YADAV,553428,151945,Bharatiya Janata Party - BJP
+Bihar,Araria(9),PRADEEP KUMAR SINGH,600146,20094,Bharatiya Janata Party - BJP
+Bihar,Darbhanga(14),GOPAL JEE THAKUR,566630,178156,Bharatiya Janata Party - BJP
+Bihar,Muzaffarpur(15),RAJ BHUSHAN CHOUDHARY,619749,234927,Bharatiya Janata Party - BJP
+Bihar,Maharajganj(19),"JANARDAN SINGH ""SIGRIWAL""",529533,102651,Bharatiya Janata Party - BJP
+Bihar,Saran(20),RAJIV PRATAP RUDY,471752,13661,Bharatiya Janata Party - BJP
+Bihar,Ujiarpur(22),NITYANAND RAI,515965,60102,Bharatiya Janata Party - BJP
+Bihar,Begusarai(24),GIRIRAJ SINGH,649331,81480,Bharatiya Janata Party - BJP
+Bihar,Patna Sahib(30),RAVI SHANKAR PRASAD,588270,153846,Bharatiya Janata Party - BJP
+Bihar,Nawada(39),VIVEK THAKUR,410608,67670,Bharatiya Janata Party - BJP
+Bihar,Vaishali(16),VEENA DEVI,567043,89634,Lok Janshakti Party(Ram Vilas) - LJPRV
+Bihar,Hajipur(21),CHIRAG PASWAN,615718,170105,Lok Janshakti Party(Ram Vilas) - LJPRV
+Bihar,Samastipur(23),SHAMBHAVI,579786,187251,Lok Janshakti Party(Ram Vilas) - LJPRV
+Bihar,Khagaria(25),RAJESH VERMA,538657,161131,Lok Janshakti Party(Ram Vilas) - LJPRV
+Bihar,Jamui(40),ARUN BHARTI,509046,112482,Lok Janshakti Party(Ram Vilas) - LJPRV
+Bihar,Patliputra(31),MISHA BHARTI,613283,85174,Rashtriya Janata Dal - RJD
+Bihar,Buxar(33),SUDHAKAR SINGH,438345,30091,Rashtriya Janata Dal - RJD
+Bihar,Jahanabad(36),SURENDRA PRASAD YADAV,443035,142591,Rashtriya Janata Dal - RJD
+Bihar,Aurangabad(37),ABHAY KUMAR SINHA,465567,79111,Rashtriya Janata Dal - RJD
+Bihar,Kishanganj(10),MOHAMMAD JAWED,402850,59692,Indian National Congress - INC
+Bihar,Katihar(11),TARIQ ANWAR,567092,49863,Indian National Congress - INC
+Bihar,Sasaram(34),MANOJ KUMAR,513004,19157,Indian National Congress - INC
+Bihar,Arrah(32),SUDAMA PRASAD,529382,59808,Communist Party of India  (Marxist-Leninist)  (Liberation) - CPI(ML)(L)
+Bihar,Karakat(35),RAJA RAM SINGH,380581,105858,Communist Party of India  (Marxist-Leninist)  (Liberation) - CPI(ML)(L)
+Bihar,Gaya(38),JITAN RAM MANJHI,494960,101812,Hindustani Awam Morcha (Secular) - HAMS
+Bihar,Purnia(12),RAJESH RANJAN ALIAS PAPPU YADAV,567556,23847,Independent - IND
+Chandigarh,Chandigarh(1),MANISH TEWARI,216657,2504,Indian National Congress - INC
+Chhattisgarh,SURGUJA(1),CHINTAMANI MAHARAJ,713200,64822,Bharatiya Janata Party - BJP
+Chhattisgarh,RAIGARH(2),RADHESHYAM RATHIYA,808275,240391,Bharatiya Janata Party - BJP
+Chhattisgarh,JANJGIR-CHAMPA(3),KAMLESH JANGDE,678199,60000,Bharatiya Janata Party - BJP
+Chhattisgarh,BILASPUR(5),TOKHAN SAHU,724937,164558,Bharatiya Janata Party - BJP
+Chhattisgarh,RAJNANDGAON(6),SANTOSH PANDEY,712057,44411,Bharatiya Janata Party - BJP
+Chhattisgarh,DURG(7),VIJAY BAGHEL,956497,438226,Bharatiya Janata Party - BJP
+Chhattisgarh,RAIPUR(8),BRIJMOHAN AGRAWAL,1050351,575285,Bharatiya Janata Party - BJP
+Chhattisgarh,MAHASAMUND(9),ROOP KUMARI CHOUDHARY,703659,145456,Bharatiya Janata Party - BJP
+Chhattisgarh,BASTAR(10),MAHESH KASHYAP,458398,55245,Bharatiya Janata Party - BJP
+Chhattisgarh,KANKER(11),BHOJRAJ NAG,597624,1884,Bharatiya Janata Party - BJP
+Chhattisgarh,KORBA(4),JYOTSNA CHARANDAS MAHANT,570182,43283,Indian National Congress - INC
+Dadra & Nagar Haveli and Daman & Diu,Dadar & Nagar Haveli(2),DELKAR KALABEN MOHANBHAI,121074,57584,Bharatiya Janata Party - BJP
+Dadra & Nagar Haveli and Daman & Diu,Daman & Diu (1),PATEL UMESHBHAI BABUBHAI,42523,6225,Independent - IND
+Goa,North Goa(1),SHRIPAD YESSO NAIK,257326,116015,Bharatiya Janata Party - BJP
+Goa,South Goa(2),CAPTAIN  VIRIATO FERNANDES,217836,13535,Indian National Congress - INC
+Gujarat,Kachchh(1),CHAVDA VINOD LAKHAMSHI,659574,268782,Bharatiya Janata Party - BJP
+Gujarat,Patan(3),DABHI  BHARATSINHJI  SHANKARJI,591947,31876,Bharatiya Janata Party - BJP
+Gujarat,Mahesana(4),HARIBHAI PATEL,686406,328046,Bharatiya Janata Party - BJP
+Gujarat,Sabarkantha(5),SHOBHANABEN MAHENDRASINH BARAIYA,677318,155682,Bharatiya Janata Party - BJP
+Gujarat,Gandhinagar(6),AMIT SHAH,1010972,744716,Bharatiya Janata Party - BJP
+Gujarat,Ahmedabad East(7),HASMUKHBHAI PATEL (H.S.PATEL),770459,461755,Bharatiya Janata Party - BJP
+Gujarat,Ahmedabad West(8),DINESHBHAI MAKWANA (ADVOCATE),611704,286437,Bharatiya Janata Party - BJP
+Gujarat,Surendranagar(9),CHANDUBHAI CHHAGANBHAI SHIHORA,669749,261617,Bharatiya Janata Party - BJP
+Gujarat,Rajkot(10),PARSHOTTAMBHAI RUPALA,857984,484260,Bharatiya Janata Party - BJP
+Gujarat,Porbandar(11),DR. MANSUKH MANDAVIYA,633118,383360,Bharatiya Janata Party - BJP
+Gujarat,Jamnagar(12),POONAMBEN HEMATBHAI MAADAM,620049,238008,Bharatiya Janata Party - BJP
+Gujarat,Junagadh(13),CHUDASAMA RAJESHBHAI NARANBHAI,584049,135494,Bharatiya Janata Party - BJP
+Gujarat,Amreli(14),BHARATBHAI MANUBHAI SUTARIYA,580872,321068,Bharatiya Janata Party - BJP
+Gujarat,Bhavnagar(15),NIMUBEN JAYANTIBHAI BAMBHANIYA (NIMUBEN BAMBHANIYA),716883,455289,Bharatiya Janata Party - BJP
+Gujarat,Anand(16),MITESH PATEL (BAKABHAI),612484,89939,Bharatiya Janata Party - BJP
+Gujarat,Kheda(17),DEVUSINH CHAUHAN,744435,357758,Bharatiya Janata Party - BJP
+Gujarat,Panchmahal(18),RAJPALSINH MAHENDRASINH JADAV,794579,509342,Bharatiya Janata Party - BJP
+Gujarat,Dahod(19),JASWANTSINH SUMANBHAI BHABHOR,688715,333677,Bharatiya Janata Party - BJP
+Gujarat,Vadodara(20),DR. HEMANG JOSHI,873189,582126,Bharatiya Janata Party - BJP
+Gujarat,Chhota Udaipur(21),JASHUBHAI BHILUBHAI RATHVA,796589,398777,Bharatiya Janata Party - BJP
+Gujarat,Bharuch(22),MANSUKHBHAI DHANJIBHAI VASAVA,608157,85696,Bharatiya Janata Party - BJP
+Gujarat,Bardoli(23),PARBHUBHAI NAGARBHAI VASAVA,763950,230253,Bharatiya Janata Party - BJP
+Gujarat,Surat(24),MUKESHKUMAR CHANDRAKAANT DALAL (Uncontested),-,-,Bharatiya Janata Party - BJP
+Gujarat,Navsari(25),C R PATIL,1031065,773551,Bharatiya Janata Party - BJP
+Gujarat,Valsad(26),DHAVAL LAXMANBHAI PATEL,764226,210704,Bharatiya Janata Party - BJP
+Gujarat,Banaskantha(2),GENIBEN NAGAJI THAKOR,671883,30406,Indian National Congress - INC
+Haryana,AMBALA(1),VARUN CHAUDHRY,663657,49036,Indian National Congress - INC
+Haryana,SIRSA(3),SELJA,733823,268497,Indian National Congress - INC
+Haryana,HISAR(4),JAI PARKASH (J P) S/O HARIKESH,570424,63381,Indian National Congress - INC
+Haryana,SONIPAT(6),SATPAL BRAHAMCHARI,548682,21816,Indian National Congress - INC
+Haryana,ROHTAK(7),DEEPENDER SINGH HOODA,783578,345298,Indian National Congress - INC
+Haryana,KURUKSHETRA(2),NAVEEN JINDAL,542175,29021,Bharatiya Janata Party - BJP
+Haryana,KARNAL(5),MANOHAR LAL,739285,232577,Bharatiya Janata Party - BJP
+Haryana,BHIWANI-MAHENDRAGARH(8),DHARAMBIR SINGH,588664,41510,Bharatiya Janata Party - BJP
+Haryana,GURGAON(9),RAO INDERJIT SINGH,808336,75079,Bharatiya Janata Party - BJP
+Haryana,FARIDABAD(10),KRISHAN PAL,788569,172914,Bharatiya Janata Party - BJP
+Himachal Pradesh,KANGRA(1),DR RAJEEV BHARDWAJ,632793,251895,Bharatiya Janata Party - BJP
+Himachal Pradesh,MANDI(2),KANGNA RANAUT,537022,74755,Bharatiya Janata Party - BJP
+Himachal Pradesh,HAMIRPUR(3),ANURAG SINGH THAKUR,607068,182357,Bharatiya Janata Party - BJP
+Himachal Pradesh,SHIMLA(4),Suresh Kumar Kashyap,519748,91451,Bharatiya Janata Party - BJP
+Jammu and Kashmir,SRINAGAR(2),AGA SYED RUHULLAH MEHDI,356866,188416,Jammu & Kashmir National Conference - JKN
+Jammu and Kashmir,ANANTNAG-RAJOURI(3),MIAN ALTAF AHMAD,521836,281794,Jammu & Kashmir National Conference - JKN
+Jammu and Kashmir,UDHAMPUR(4),DR JITENDRA SINGH,571076,124373,Bharatiya Janata Party - BJP
+Jammu and Kashmir,JAMMU(5),JUGAL KISHORE,687588,135498,Bharatiya Janata Party - BJP
+Jammu and Kashmir,BARAMULLA(1),ABDUL RASHID SHEIKH,472481,204142,Independent - IND
+Jharkhand,Godda(3),NISHIKANT DUBEY,693140,101813,Bharatiya Janata Party - BJP
+Jharkhand,Chatra(4),KALI CHARAN SINGH,574556,220959,Bharatiya Janata Party - BJP
+Jharkhand,Kodarma(5),ANNPURNA DEVI,791657,377014,Bharatiya Janata Party - BJP
+Jharkhand,Dhanbad(7),DULU MAHATO,789172,331583,Bharatiya Janata Party - BJP
+Jharkhand,Ranchi(8),SANJAY SETH,664732,120512,Bharatiya Janata Party - BJP
+Jharkhand,Jamshedpur(9),BIDYUT BARAN MAHATO,726174,259782,Bharatiya Janata Party - BJP
+Jharkhand,Palamau(13),VISHNU DAYAL RAM,770362,288807,Bharatiya Janata Party - BJP
+Jharkhand,Hazaribagh(14),MANISH JAISWAL,654613,276686,Bharatiya Janata Party - BJP
+Jharkhand,Rajmahal(1),VIJAY KUMAR HANSDAK,613371,178264,Jharkhand Mukti Morcha - JMM
+Jharkhand,Dumka(2),NALIN SOREN,547370,22527,Jharkhand Mukti Morcha - JMM
+Jharkhand,Singhbhum(10),JOBA MAJHI,520164,168402,Jharkhand Mukti Morcha - JMM
+Jharkhand,Khunti(11),KALI CHARAN MUNDA,511647,149675,Indian National Congress - INC
+Jharkhand,Lohardaga(12),SUKHDEO BHAGAT,483038,139138,Indian National Congress - INC
+Jharkhand,Giridih(6),CHANDRA PRAKASH CHOUDHARY,451139,80880,AJSU Party - AJSUP
+Karnataka,Belgaum(2),JAGADISH SHETTAR,762029,178437,Bharatiya Janata Party - BJP
+Karnataka,Bagalkot(3),GADDIGOUDAR. PARVATAGOUDA. CHANDANAGOUDA.,671039,68399,Bharatiya Janata Party - BJP
+Karnataka,Bijapur(4),RAMESH JIGAJINAGI,672781,77229,Bharatiya Janata Party - BJP
+Karnataka,Haveri(10),BASAVARAJ BOMMAI,705538,43513,Bharatiya Janata Party - BJP
+Karnataka,Dharwad(11),PRALHAD JOSHI,716231,97324,Bharatiya Janata Party - BJP
+Karnataka,Uttara Kannada(12),VISHWESHWAR HEGDE KAGERI,782495,337428,Bharatiya Janata Party - BJP
+Karnataka,Shimoga(14),B.Y.RAGHAVENDRA,778721,243715,Bharatiya Janata Party - BJP
+Karnataka,Udupi Chikmagalur(15),KOTA SRINIVAS POOJARY,732234,259175,Bharatiya Janata Party - BJP
+Karnataka,Dakshina Kannada(17),CAPTAIN BRIJESH CHOWTA,764132,149208,Bharatiya Janata Party - BJP
+Karnataka,Chitradurga(18),GOVIND MAKTHAPPA KARJOL,684890,48121,Bharatiya Janata Party - BJP
+Karnataka,Tumkur(19),V. SOMANNA,720946,175594,Bharatiya Janata Party - BJP
+Karnataka,Mysore(21),YADUVEER KRISHNADATTA CHAMARAJA WADIYAR,795503,139262,Bharatiya Janata Party - BJP
+Karnataka,Bangalore Rural(23),DR C N MANJUNATH,1079002,269647,Bharatiya Janata Party - BJP
+Karnataka,Bangalore North(24),SHOBHA KARANDLAJE,986049,259476,Bharatiya Janata Party - BJP
+Karnataka,Bangalore central(25),P C MOHAN,658915,32707,Bharatiya Janata Party - BJP
+Karnataka,Bangalore South(26),TEJASVI SURYA,750830,277083,Bharatiya Janata Party - BJP
+Karnataka,Chikkballapur(27),DR.K.SUDHAKAR,822619,163460,Bharatiya Janata Party - BJP
+Karnataka,Chikkodi(1),PRIYANKA SATISH JARKIHOLI,713461,90834,Indian National Congress - INC
+Karnataka,Gulbarga(5),RADHAKRISHNA,652321,27205,Indian National Congress - INC
+Karnataka,Raichur(6),G. KUMAR NAIK.,670966,79781,Indian National Congress - INC
+Karnataka,Bidar(7),SAGAR ESHWAR KHANDRE,666317,128875,Indian National Congress - INC
+Karnataka,Koppal(8),K. RAJASHEKAR BASAVARAJ HITNAL,663511,46357,Indian National Congress - INC
+Karnataka,Bellary(9),E. TUKARAM,730845,98992,Indian National Congress - INC
+Karnataka,Davanagere(13),DR. PRABHA MALLIKARJUN,633059,26094,Indian National Congress - INC
+Karnataka,Hassan(16),SHREYAS. M. PATEL,672988,42649,Indian National Congress - INC
+Karnataka,Chamarajanagar(22),SUNIL BOSE,751671,188706,Indian National Congress - INC
+Karnataka,Mandya(20),H.D. KUMARASWAMY,851881,284620,Janata Dal  (Secular) - JD(S)
+Karnataka,Kolar(28),M. MALLESH BABU,691481,71388,Janata Dal  (Secular) - JD(S)
+Kerala,Kasaragod(1),RAJMOHAN UNNITHAN,490659,100649,Indian National Congress - INC
+Kerala,Kannur(2),K. SUDHAKARAN,518524,108982,Indian National Congress - INC
+Kerala,Vadakara(3),SHAFI PARAMBIL,557528,114506,Indian National Congress - INC
+Kerala,Wayanad(4),RAHUL GANDHI,647445,364422,Indian National Congress - INC
+Kerala,Kozhikode(5),M. K. RAGHAVAN,520421,146176,Indian National Congress - INC
+Kerala,Palakkad(8),V K SREEKANDAN,421169,75283,Indian National Congress - INC
+Kerala,Chalakudy(11),BENNY BEHANAN,394171,63754,Indian National Congress - INC
+Kerala,Ernakulam(12),HIBI EDEN,482317,250385,Indian National Congress - INC
+Kerala,Idukki(13),ADV. DEAN KURIAKOSE,432372,133727,Indian National Congress - INC
+Kerala,Alappuzha(15),K. C VENUGOPAL,404560,63513,Indian National Congress - INC
+Kerala,Mavelikkara (16),KODIKUNNIL SURESH,369516,10868,Indian National Congress - INC
+Kerala,Pathanamthitta(17),ANTO ANTONY,367623,66119,Indian National Congress - INC
+Kerala,Attingal(19),ADV ADOOR PRAKASH,328051,684,Indian National Congress - INC
+Kerala,Thiruvananthapuram(20),SHASHI THAROOR,358155,16077,Indian National Congress - INC
+Kerala,Malappuram(6),E.T.  MOHAMMED BASHEER,644006,300118,Indian Union Muslim League - IUML
+Kerala,Ponnani(7),DR. M.P ABDUSSAMAD SAMADANI,562516,235760,Indian Union Muslim League - IUML
+Kerala,Alathur (9),K.RADHAKRISHNAN,403447,20111,Communist Party of India  (Marxist) - CPI(M)
+Kerala,Thrissur(10),SURESH GOPI,412338,74686,Bharatiya Janata Party - BJP
+Kerala,Kottayam(14),ADV K FRANCIS GEORGE,364631,87266,Kerala Congress - KEC
+Kerala,Kollam(18),N K PREMACHANDRAN,443628,150302,Revolutionary Socialist Party - RSP
+Ladakh,Ladakh(1),MOHMAD HANEEFA,65259,27862,Independent - IND
+Lakshadweep,Lakshadweep(1),MUHAMMED HAMDULLAH SAYEED,25726,2647,Indian National Congress - INC
+Madhya Pradesh,MORENA(1),SHIVMANGAL SINGH TOMAR,515477,52530,Bharatiya Janata Party - BJP
+Madhya Pradesh,BHIND(2),SANDHYA RAY,537065,64840,Bharatiya Janata Party - BJP
+Madhya Pradesh,GWALIOR(3),BHARAT SINGH KUSHWAH,671535,70210,Bharatiya Janata Party - BJP
+Madhya Pradesh,GUNA(4),JYOTIRADITYA M. SCINDIA,923302,540929,Bharatiya Janata Party - BJP
+Madhya Pradesh,SAGAR(5),DR. LATA WANKHEDE,787979,471222,Bharatiya Janata Party - BJP
+Madhya Pradesh,TIKAMGARH(6),DR. VIRENDRA KUMAR,715050,403312,Bharatiya Janata Party - BJP
+Madhya Pradesh,DAMOH(7),RAHUL SINGH LODHI,709768,406426,Bharatiya Janata Party - BJP
+Madhya Pradesh,KHAJURAHO(8),VISHNU DATT SHARMA (V.D.SHARMA),772774,541229,Bharatiya Janata Party - BJP
+Madhya Pradesh,SATNA(9),GANESH SINGH,459728,84949,Bharatiya Janata Party - BJP
+Madhya Pradesh,REWA(10),JANARDAN MISHRA,477459,193374,Bharatiya Janata Party - BJP
+Madhya Pradesh,SIDHI(11),DR. RAJESH MISHRA,583559,206416,Bharatiya Janata Party - BJP
+Madhya Pradesh,SHAHDOL(12),SMT. HIMADRI SINGH,711143,397340,Bharatiya Janata Party - BJP
+Madhya Pradesh,JABALPUR(13),ASHISH DUBEY,790133,486674,Bharatiya Janata Party - BJP
+Madhya Pradesh,MANDLA(14),FAGGAN SINGH KULASTE,751375,103846,Bharatiya Janata Party - BJP
+Madhya Pradesh,BALAGHAT(15),BHARTI PARDHI,712660,174512,Bharatiya Janata Party - BJP
+Madhya Pradesh,CHHINDWARA(16),BUNTY VIVEK SAHU,644738,113618,Bharatiya Janata Party - BJP
+Madhya Pradesh,HOSHANGABAD(17),DARSHAN SINGH CHOUDHARY,812147,431696,Bharatiya Janata Party - BJP
+Madhya Pradesh,VIDISHA(18),SHIVRAJ SINGH CHOUHAN,1116460,821408,Bharatiya Janata Party - BJP
+Madhya Pradesh,BHOPAL(19),ALOK SHARMA,981109,501499,Bharatiya Janata Party - BJP
+Madhya Pradesh,RAJGARH(20),RODMAL NAGAR,758743,146089,Bharatiya Janata Party - BJP
+Madhya Pradesh,DEWAS(21),MAHENDRA SINGH SOLANKY,928941,425225,Bharatiya Janata Party - BJP
+Madhya Pradesh,UJJAIN(22),ANIL FIROJIYA,836104,375860,Bharatiya Janata Party - BJP
+Madhya Pradesh,MANDSOUR(23),SUDHEER GUPTA,945761,500655,Bharatiya Janata Party - BJP
+Madhya Pradesh,RATLAM(24),ANITA NAGARSINGH CHOUHAN,795863,207232,Bharatiya Janata Party - BJP
+Madhya Pradesh,DHAR(25),SAVITRI THAKUR,794449,218665,Bharatiya Janata Party - BJP
+Madhya Pradesh,INDORE(26),SHANKAR LALWANI,1226751,1175092,Bharatiya Janata Party - BJP
+Madhya Pradesh,KHARGONE(27),GAJENDRA SINGH PATEL,819863,135018,Bharatiya Janata Party - BJP
+Madhya Pradesh,KHANDWA(28),GYANESHWAR PATIL,862679,269971,Bharatiya Janata Party - BJP
+Madhya Pradesh,BETUL(29),DURGADAS (D. D.) UIKEY,848236,379761,Bharatiya Janata Party - BJP
+Maharashtra,Nandurbar(1),ADV GOWAAL KAGADA PADAVI,745998,159120,Indian National Congress - INC
+Maharashtra,Dhule(2),BACHHAV SHOBHA DINESH,583866,3831,Indian National Congress - INC
+Maharashtra,Amravati (7),BALWANT BASWANT WANKHADE,526271,19731,Indian National Congress - INC
+Maharashtra,Ramtek (9),Shyamkumar (Babalu) Daulat Barve,613025,76768,Indian National Congress - INC
+Maharashtra,Bhandara Gondiya(11),DR. PRASHANT YADAORAO PADOLE,587413,37380,Indian National Congress - INC
+Maharashtra,Gadchiroli - Chimur(12),DR. KIRSAN NAMDEO,617792,141696,Indian National Congress - INC
+Maharashtra,Chandrapur(13),DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU,718410,260406,Indian National Congress - INC
+Maharashtra,Nanded(16),CHAVAN VASANTRAO BALWANTRAO,528894,59442,Indian National Congress - INC
+Maharashtra,Jalna(18),KALYAN VAIJINATHRAO KALE,607897,109958,Indian National Congress - INC
+Maharashtra,Mumbai North Central(29),GAIKWAD VARSHA EKNATH,445545,16514,Indian National Congress - INC
+Maharashtra,Latur (41),DR. KALGE SHIVAJI BANDAPPA,609021,61881,Indian National Congress - INC
+Maharashtra,Solapur(42),PRANITI SUSHILKUMAR SHINDE,620225,74197,Indian National Congress - INC
+Maharashtra,Kolhapur(47),CHHATRAPATI SHAHU SHAHAJI,754522,154964,Indian National Congress - INC
+Maharashtra,Jalgaon(3),SMITA UDAY WAGH,674428,251594,Bharatiya Janata Party - BJP
+Maharashtra,Raver(4),KHADSE RAKSHA NIKHIL,630879,272183,Bharatiya Janata Party - BJP
+Maharashtra,Akola(6),ANUP SANJAY DHOTRE,457030,40626,Bharatiya Janata Party - BJP
+Maharashtra,Nagpur(10),NITIN JAIRAM GADKARI,655027,137603,Bharatiya Janata Party - BJP
+Maharashtra,Palghar(22),DR. HEMANT VISHNU SAVARA,601244,183306,Bharatiya Janata Party - BJP
+Maharashtra,Mumbai North(26),PIYUSH GOYAL,680146,357608,Bharatiya Janata Party - BJP
+Maharashtra,Pune(34),MURLIDHAR MOHOL,584728,123038,Bharatiya Janata Party - BJP
+Maharashtra,Satara(45),SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE,571134,32771,Bharatiya Janata Party - BJP
+Maharashtra,Ratnagiri- Sindhudurg(46),NARAYAN TATU RANE,448514,47858,Bharatiya Janata Party - BJP
+Maharashtra,Yavatmal- Washim(14),SANJAY UTTAMRAO DESHMUKH,594807,94473,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Hingoli(15),AASHTIKAR PATIL NAGESH BAPURAO,492535,108602,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Parbhani(17),JADHAV SANJAY ( BANDU ) HARIBHAU,601343,134061,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Nashik(21),RAJABHAU (PARAG) PRAKASH WAJE,616729,162001,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Mumbai North East(28),SANJAY DINA PATIL,450937,29861,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Mumbai South Central(30),ANIL YESHWANT DESAI,395138,53384,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Mumbai South(31),ARVIND GANPAT SAWANT,395655,52673,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Shirdi (38),BHAUSAHEB RAJARAM WAKCHAURE,476900,50529,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Osmanabad(40),OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR,748752,329846,Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT
+Maharashtra,Wardha(8),AMAR SHARADRAO KALE,533106,81648,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Dindori (20),BHASKAR MURLIDHAR BHAGARE,577339,113199,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Bhiwandi(23),BALYA MAMA - SURESH GOPINATH MHATRE,499464,66121,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Baramati(35),SUPRIYA SULE,732312,158333,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Shirur(36),DR. AMOL RAMSING KOLHE,698692,140951,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Ahmednagar(37),NILESH DNYANDEV LANKE,624797,28929,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Beed(39),BAJRANG MANOHAR SONWANE,683950,6553,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Madha(43),MOHITE-PATIL DHAIRYASHEEL RAJSINH,622213,120837,Nationalist Congress Party – Sharadchandra Pawar - NCPSP
+Maharashtra,Buldhana(5),JADHAV PRATAPRAO GANPATRAO,349867,29479,Shiv Sena - SHS
+Maharashtra,Aurangabad(19),BHUMARE SANDIPANRAO ASARAM,476130,134650,Shiv Sena - SHS
+Maharashtra,Kalyan(24),DR SHRIKANT EKNATH SHINDE,589636,209144,Shiv Sena - SHS
+Maharashtra,Thane(25),NARESH GANPAT MHASKE,734231,217011,Shiv Sena - SHS
+Maharashtra,Mumbai North West(27),RAVINDRA DATTARAM WAIKAR,452644,48,Shiv Sena - SHS
+Maharashtra,Maval(33),SHRIRANG APPA CHANDU BARNE,692832,96615,Shiv Sena - SHS
+Maharashtra,Hatkanangale(48),DHAIRYASHEEL SAMBHAJIRAO MANE,520190,13426,Shiv Sena - SHS
+Maharashtra,Raigad(32),TATKARE SUNIL DATTATREY,508352,82784,Nationalist Congress Party - NCP
+Maharashtra,Sangli(44),VISHAL (DADA) PRAKASHBAPU PATIL,571666,100053,Independent - IND
+Manipur,Inner Manipur(1),ANGOMCHA BIMOL AKOIJAM,374017,109801,Indian National Congress - INC
+Manipur,Outer Manipur(2),ALFRED KANNGAM S ARTHUR,384954,85418,Indian National Congress - INC
+Meghalaya,Shillong(1),DR. RICKY ANDREW J. SYNGKON,571078,371910,Voice of the People Party - VOTPP
+Meghalaya,Tura(2),SALENG A SANGMA,383919,155241,Indian National Congress - INC
+Mizoram,MIZORAM(1),RICHARD VANLALHMANGAIHA,208552,68288,Zoram People’s Movement - ZPM
+Nagaland,Nagaland(1),S SUPONGMEREN JAMIR,401951,50984,Indian National Congress - INC
+NCT OF Delhi,Chandni Chowk(1),PRAVEEN KHANDELWAL,516496,89325,Bharatiya Janata Party - BJP
+NCT OF Delhi,North-East Delhi(2),MANOJ TIWARI,824451,138778,Bharatiya Janata Party - BJP
+NCT OF Delhi,East Delhi(3),HARSH MALHOTRA,664819,93663,Bharatiya Janata Party - BJP
+NCT OF Delhi,New Delhi(4),BANSURI SWARAJ,453185,78370,Bharatiya Janata Party - BJP
+NCT OF Delhi,North-West Delhi(5),YOGENDER CHANDOLIYA,866483,290849,Bharatiya Janata Party - BJP
+NCT OF Delhi,West Delhi(6),KAMALJEET SEHRAWAT,842658,199013,Bharatiya Janata Party - BJP
+NCT OF Delhi,South Delhi(7),RAMVIR SINGH BIDHURI,692832,124333,Bharatiya Janata Party - BJP
+Odisha,Bargarh(1),PRADEEP PUROHIT,716359,251667,Bharatiya Janata Party - BJP
+Odisha,Sundargarh(2),JUAL ORAM,494282,138808,Bharatiya Janata Party - BJP
+Odisha,Sambalpur(3),DHARMENDRA PRADHAN,592162,119836,Bharatiya Janata Party - BJP
+Odisha,Keonjhar(4),ANANTA NAYAK,573923,97042,Bharatiya Janata Party - BJP
+Odisha,Mayurbhanj(5),NABA CHARAN MAJHI,585971,219334,Bharatiya Janata Party - BJP
+Odisha,Balasore(6),PRATAP CHANDRA SARANGI,563865,147156,Bharatiya Janata Party - BJP
+Odisha,Bhadrak(7),AVIMANYU SETHI,573319,91544,Bharatiya Janata Party - BJP
+Odisha,Jajpur(8),RABINDRA NARAYAN BEHERA,534239,1587,Bharatiya Janata Party - BJP
+Odisha,Dhenkanal(9),RUDRA NARAYAN PANY,598721,76567,Bharatiya Janata Party - BJP
+Odisha,Bolangir(10),SANGEETA KUMARI SINGH DEO,617744,132664,Bharatiya Janata Party - BJP
+Odisha,Kalahandi(11),MALVIKA DEVI,544303,133813,Bharatiya Janata Party - BJP
+Odisha,Nabarangpur(12),BALABHADRA MAJHI,481396,87536,Bharatiya Janata Party - BJP
+Odisha,Kandhamal(13),SUKANTA KUMAR PANIGRAHI,416415,21371,Bharatiya Janata Party - BJP
+Odisha,Cuttack(14),BHARTRUHARI MAHTAB,531601,57077,Bharatiya Janata Party - BJP
+Odisha,Kendrapara(15),BAIJAYANT PANDA,615705,66536,Bharatiya Janata Party - BJP
+Odisha,Jagatsinghpur(16),BIBHU PRASAD TARAI,589093,40696,Bharatiya Janata Party - BJP
+Odisha,Puri(17),SAMBIT PATRA,629330,104709,Bharatiya Janata Party - BJP
+Odisha,Bhubaneswar(18),APARAJITA SARANGI,512519,35152,Bharatiya Janata Party - BJP
+Odisha,Aska(19),ANITA SUBHADARSHINI,494226,99974,Bharatiya Janata Party - BJP
+Odisha,Berhampur(20),DR. PRADEEP KUMAR PANIGRAHY,513102,165476,Bharatiya Janata Party - BJP
+Odisha,Koraput(21),SAPTAGIRI SANKAR ULAKA,471393,147744,Indian National Congress - INC
+Puducherry,PUDUCHERRY(1),VE VAITHILINGAM,426005,136516,Indian National Congress - INC
+Punjab,Gurdaspur(1),SUKHJINDER SINGH RANDHAWA,364043,82861,Indian National Congress - INC
+Punjab,Amritsar(2),GURJEET SINGH AUJLA,255181,40301,Indian National Congress - INC
+Punjab,Jalandhar(4),CHARANJIT SINGH CHANNI,390053,175993,Indian National Congress - INC
+Punjab,Ludhiana(7),AMRINDER SINGH RAJA WARRING,322224,20942,Indian National Congress - INC
+Punjab,Fatehgarh Sahib(8),AMAR SINGH,332591,34202,Indian National Congress - INC
+Punjab,Firozpur(10),SHER SINGH GHUBAYA,266626,3242,Indian National Congress - INC
+Punjab,Patiala(13),DR DHARAMVIRA GANDHI,305616,14831,Indian National Congress - INC
+Punjab,Hoshiarpur(5),DR. RAJ KUMAR CHABBEWAL,303859,44111,Aam Aadmi Party - AAAP
+Punjab,Anandpur Sahib(6),MALVINDER SINGH KANG,313217,10846,Aam Aadmi Party - AAAP
+Punjab,Sangrur(12),GURMEET SINGH MEET HAYER,364085,172560,Aam Aadmi Party - AAAP
+Punjab,Bathinda(11),HARSIMRAT KAUR BADAL,376558,49656,Shiromani Akali Dal - SAD
+Punjab,Khadoor Sahib(3),AMRITPAL SINGH,404430,197120,Independent - IND
+Punjab,Faridkot(9),SARABJEET SINGH KHALSA,298062,70053,Independent - IND
+Rajasthan,BIKANER (2),ARJUN RAM MEGHWAL,566737,55711,Bharatiya Janata Party - BJP
+Rajasthan,JAIPUR RURAL(6),RAO RAJENDRA SINGH,617877,1615,Bharatiya Janata Party - BJP
+Rajasthan,JAIPUR(7),MANJU SHARMA,886850,331767,Bharatiya Janata Party - BJP
+Rajasthan,ALWAR(8),BHUPENDER YADAV,631992,48282,Bharatiya Janata Party - BJP
+Rajasthan,AJMER (13),BHAGIRATH CHOUDHARY,747462,329991,Bharatiya Janata Party - BJP
+Rajasthan,PALI(15),P. P. CHAUDHARY,757389,245351,Bharatiya Janata Party - BJP
+Rajasthan,JODHPUR(16),GAJENDRA SINGH SHEKHAWAT,730056,115677,Bharatiya Janata Party - BJP
+Rajasthan,JALORE (18),LUMBARAM,796783,201543,Bharatiya Janata Party - BJP
+Rajasthan,UDAIPUR (19),MANNA LAL RAWAT,738286,261608,Bharatiya Janata Party - BJP
+Rajasthan,CHITTORGARH(21),CHANDRA PRAKASH JOSHI,888202,389877,Bharatiya Janata Party - BJP
+Rajasthan,RAJSAMAND(22),MAHIMA KUMARI MEWAR,781203,392223,Bharatiya Janata Party - BJP
+Rajasthan,BHILWARA(23),DAMODAR AGARWAL,807640,354606,Bharatiya Janata Party - BJP
+Rajasthan,KOTA(24),OM BIRLA,750496,41974,Bharatiya Janata Party - BJP
+Rajasthan,JHALAWAR-BARAN(25),DUSHYANT SINGH,865376,370989,Bharatiya Janata Party - BJP
+Rajasthan,GANGANAGAR (1),KULDEEP INDORA,726492,88153,Indian National Congress - INC
+Rajasthan,CHURU(3),RAHUL KASWAN,728211,72737,Indian National Congress - INC
+Rajasthan,JHUNJHUNU     (4),BRIJENDRA SINGH OLA,553168,18235,Indian National Congress - INC
+Rajasthan,BHARATPUR (9),SANJNA JATAV,579890,51983,Indian National Congress - INC
+Rajasthan,KARAULI-DHOLPUR (10),BHAJAN LAL JATAV,530011,98945,Indian National Congress - INC
+Rajasthan,DAUSA (11),MURARI LAL MEENA,646266,237340,Indian National Congress - INC
+Rajasthan,TONK-SAWAI MADHOPUR (12),HARISH CHANDRA MEENA,623763,64949,Indian National Congress - INC
+Rajasthan,BARMER(17),UMMEDA RAM BENIWAL,704676,118176,Indian National Congress - INC
+Rajasthan,SIKAR(5),AMRARAM,659300,72896,Communist Party of India  (Marxist) - CPI(M)
+Rajasthan,NAGAUR(14),HANUMAN BENIWAL,596955,42225,Rashtriya Loktantrik Party - RLTP
+Rajasthan,BANSWARA (20),RAJ KUMAR ROAT,820831,247054,Bharat Adivasi Party - BHRTADVSIP
+Sikkim,Sikkim(1),INDRA HANG SUBBA,164396,80830,Sikkim Krantikari Morcha - SKM
+Tamil Nadu,CHENNAI NORTH(2),DR.KALANIDHI VEERASWAMY,497333,339222,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,CHENNAI SOUTH(3),T.SUMATHY (ALIAS) THAMIZHACHI THANGAPANDIAN,516628,225945,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,CHENNAI CENTRAL(4),DAYANIDHI MARAN,413848,244689,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,SRIPERUMBUDUR(5),T R BAALU,758611,487029,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,KANCHEEPURAM(6),SELVAM. G,586044,221473,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,ARAKKONAM(7),S JAGATHRATCHAKAN,563216,306559,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,VELLORE(8),DM KATHIR ANAND,568692,215702,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,DHARMAPURI(10),MANI. A.,432667,21300,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,TIRUVANNAMALAI(11),"ANNADURAI, C.N.",547379,233931,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,ARANI(12),THARANIVENTHAN M S,500099,208766,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,KALLAKURICHI(14),MALAIYARASAN D,561589,53784,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,SALEM(15),SELVAGANAPATHI T M,566085,70357,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,NAMAKKAL(16),MATHESWARAN V S,462036,29112,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,ERODE(17),K E PRAKASH,562339,236566,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,NILGIRIS(19),RAJA A,473212,240585,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,COIMBATORE(20),GANAPATHY RAJKUMAR P,568200,118068,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,POLLACHI(21),ESWARASAMY K,533377,252042,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,PERAMBALUR(25),ARUN NEHRU,603209,389107,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,THANJAVUR(30),MURASOLI S,502245,319583,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,THENI(33),THANGA TAMILSELVAN,571493,278825,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,THOOTHUKKUDI(36),KANIMOZHI KARUNANIDHI,540729,392738,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,TENKASI(37),DR RANI SRI KUMAR,425679,196199,Dravida Munnetra Kazhagam - DMK
+Tamil Nadu,TIRUVALLUR(1),Sasikanth Senthil,796956,572155,Indian National Congress - INC
+Tamil Nadu,KRISHNAGIRI(9),GOPINATH K,492883,192486,Indian National Congress - INC
+Tamil Nadu,KARUR(23),JOTHIMANI. S,534906,166816,Indian National Congress - INC
+Tamil Nadu,CUDDALORE(26),M.K. VISHNUPRASAD,455053,185896,Indian National Congress - INC
+Tamil Nadu,MAYILADUTHURAI(28),SUDHA R,518459,271183,Indian National Congress - INC
+Tamil Nadu,SIVAGANGA(31),KARTI P CHIDAMBARAM,427677,205664,Indian National Congress - INC
+Tamil Nadu,VIRUDHUNAGAR(34),MANICKAM TAGORE B,385256,4379,Indian National Congress - INC
+Tamil Nadu,TIRUNELVELI(38),ROBERT BRUCE C,502296,165620,Indian National Congress - INC
+Tamil Nadu,KANNIYAKUMARI(39),VIJAYAKUMAR (Alias) VIJAY VASANTH,546248,179907,Indian National Congress - INC
+Tamil Nadu,VILUPPURAM(13),RAVIKUMAR. D,477033,70703,Viduthalai Chiruthaigal Katchi - VCK
+Tamil Nadu,CHIDAMBARAM(27),THIRUMAAVALAVAN THOL,505084,103554,Viduthalai Chiruthaigal Katchi - VCK
+Tamil Nadu,TIRUPPUR(18),"SUBBARAYAN, K.",472739,125928,Communist Party of India - CPI
+Tamil Nadu,NAGAPATTINAM(29),SELVARAJ V,465044,208957,Communist Party of India - CPI
+Tamil Nadu,DINDIGUL(22),SACHITHANANTHAM R,670149,443821,Communist Party of India  (Marxist) - CPI(M)
+Tamil Nadu,MADURAI(32),VENKATESAN S,430323,209409,Communist Party of India  (Marxist) - CPI(M)
+Tamil Nadu,TIRUCHIRAPPALLI(24),DURAI VAIKO,542213,313094,Marumalarchi Dravida Munnetra Kazhagam - MDMK
+Tamil Nadu,RAMANATHAPURAM(35),NAVASKANI K,509664,166782,Indian Union Muslim League - IUML
+Telangana,Adilabad (1),GODAM NAGESH,568168,90652,Bharatiya Janata Party - BJP
+Telangana,Karimnagar (3),BANDI SANJAY KUMAR,585116,225209,Bharatiya Janata Party - BJP
+Telangana,Nizamabad(4),ARVIND DHARMAPURI,592318,109241,Bharatiya Janata Party - BJP
+Telangana,Medak(6),MADHAVANENI RAGHUNANDAN RAO,471217,39139,Bharatiya Janata Party - BJP
+Telangana,Malkajgiri(7),EATALA RAJENDER,991042,391475,Bharatiya Janata Party - BJP
+Telangana,Secunderabad(8),G. KISHAN REDDY,473012,49944,Bharatiya Janata Party - BJP
+Telangana,Chevella(10),KONDA VISHWESHWAR REDDY,809882,172897,Bharatiya Janata Party - BJP
+Telangana,Mahbubnagar(11),ARUNA. D. K,510747,4500,Bharatiya Janata Party - BJP
+Telangana,Peddapalle (2),VAMSI KRISHNA GADDAM,475587,131364,Indian National Congress - INC
+Telangana,Zahirabad(5),SURESH KUMAR SHETKAR,528418,46188,Indian National Congress - INC
+Telangana,Nagarkurnool(12),DR.MALLU RAVI,465072,94414,Indian National Congress - INC
+Telangana,Nalgonda(13),KUNDURU RAGHUVEER,784337,559905,Indian National Congress - INC
+Telangana,Bhongir (14),CHAMALA KIRAN KUMAR REDDY,629143,222170,Indian National Congress - INC
+Telangana,Warangal(15),KADIYAM KAVYA,581294,220339,Indian National Congress - INC
+Telangana,Mahabubabad  (16),BALRAM NAIK PORIKA,612774,349165,Indian National Congress - INC
+Telangana,Khammam (17),RAMASAHAYAM RAGHURAM REDDY,766929,467847,Indian National Congress - INC
+Telangana,Hyderabad(9),ASADUDDIN OWAISI,661981,338087,All India Majlis-E-Ittehadul Muslimeen - AIMIM
+Tripura,Tripura West(1),BIPLAB KUMAR DEB,881341,611578,Bharatiya Janata Party - BJP
+Tripura,Tripura East(2),KRITI DEVI DEBBARMAN,777447,486819,Bharatiya Janata Party - BJP
+Uttar Pradesh,Kairana(2),IQRA CHOUDHARY,528013,69116,Samajwadi Party - SP
+Uttar Pradesh,Muzaffarnagar(3),HARENDRA SINGH MALIK,470721,24672,Samajwadi Party - SP
+Uttar Pradesh,Moradabad(6),RUCHI VIRA,637363,105762,Samajwadi Party - SP
+Uttar Pradesh,Rampur(7),MOHIBBULLAH,481503,87434,Samajwadi Party - SP
+Uttar Pradesh,Sambhal(8),ZIA UR REHMAN,571161,121494,Samajwadi Party - SP
+Uttar Pradesh,Firozabad(20),AKSHAYA YADAV,543037,89312,Samajwadi Party - SP
+Uttar Pradesh,Mainpuri(21),DIMPLE YADAV,598526,221639,Samajwadi Party - SP
+Uttar Pradesh,Etah(22),DEVESH SHAKYA,475808,28052,Samajwadi Party - SP
+Uttar Pradesh,Badaun(23),ADITYA YADAV,501855,34991,Samajwadi Party - SP
+Uttar Pradesh,Aonla(24),NEERAJ MAURYA,492515,15969,Samajwadi Party - SP
+Uttar Pradesh,Kheri(28),UTKARSH VERMA 'MADHUR',557365,34329,Samajwadi Party - SP
+Uttar Pradesh,Dhaurahra(29),ANAND BHADAURIYA,443743,4449,Samajwadi Party - SP
+Uttar Pradesh,Mohanlalganj(34),R.K. CHAUDHARY,667869,70292,Samajwadi Party - SP
+Uttar Pradesh,Sultanpur(38),RAMBHUAL NISHAD,444330,43174,Samajwadi Party - SP
+Uttar Pradesh,Pratapgarh(39),SHIV PAL SINGH PATEL (DR. S P SINGH),441932,66206,Samajwadi Party - SP
+Uttar Pradesh,Etawah(41),JITENDRA KUMAR DOHARE,490747,58419,Samajwadi Party - SP
+Uttar Pradesh,Kannauj(42),AKHILESH YADAV,642292,170922,Samajwadi Party - SP
+Uttar Pradesh,Jalaun(45),NARAYAN DAS AHIRWAR,530180,53898,Samajwadi Party - SP
+Uttar Pradesh,Hamirpur(47),AJENDRA SINGH LODHI,490683,2629,Samajwadi Party - SP
+Uttar Pradesh,Banda(48),KRISHNA DEVI SHIVSHANKER PATEL,406567,71210,Samajwadi Party - SP
+Uttar Pradesh,Fatehpur(49),NARESH CHANDRA UTTAM PATEL,500328,33199,Samajwadi Party - SP
+Uttar Pradesh,Kaushambi(50),PUSHPENDRA SAROJ,509787,103944,Samajwadi Party - SP
+Uttar Pradesh,Faizabad(54),AWADHESH PRASAD,554289,54567,Samajwadi Party - SP
+Uttar Pradesh,Ambedkar Nagar(55),LALJI VERMA,544959,137247,Samajwadi Party - SP
+Uttar Pradesh,Shrawasti(58),RAM SHIROMANI VERMA,511055,76673,Samajwadi Party - SP
+Uttar Pradesh,Basti(61),RAM PRASAD CHAUDHARY,527005,100994,Samajwadi Party - SP
+Uttar Pradesh,Sant Kabir Nagar(62),LAXMIKANT PAPPU NISHAD,498695,92170,Samajwadi Party - SP
+Uttar Pradesh,Lalganj(68),DAROGA PRASAD SAROJ,439959,115023,Samajwadi Party - SP
+Uttar Pradesh,Azamgarh(69),DHARMENDRA YADAV,508239,161035,Samajwadi Party - SP
+Uttar Pradesh,Ghosi(70),RAJEEV RAI,503131,162943,Samajwadi Party - SP
+Uttar Pradesh,Salempur(71),RAMASHANKAR RAJBHAR,405472,3573,Samajwadi Party - SP
+Uttar Pradesh,Ballia(72),SANATAN PANDEY,467068,43384,Samajwadi Party - SP
+Uttar Pradesh,Jaunpur(73),BABU SINGH KUSHWAHA,509130,99335,Samajwadi Party - SP
+Uttar Pradesh,Machhlishahr(74),PRIYA SAROJ,451292,35850,Samajwadi Party - SP
+Uttar Pradesh,Ghazipur(75),AFZAL ANSARI,539912,124861,Samajwadi Party - SP
+Uttar Pradesh,Chandauli(76),BIRENDRA SINGH,474476,21565,Samajwadi Party - SP
+Uttar Pradesh,Robertsganj(80),CHHOTELAL,465848,129234,Samajwadi Party - SP
+Uttar Pradesh,Amroha(9),KANWAR SINGH TANWAR,476506,28670,Bharatiya Janata Party - BJP
+Uttar Pradesh,Meerut(10),ARUN GOVIL,546469,10585,Bharatiya Janata Party - BJP
+Uttar Pradesh,Ghaziabad(12),ATUL GARG,854170,336965,Bharatiya Janata Party - BJP
+Uttar Pradesh,Gautam Buddha Nagar(13),DR. MAHESH SHARMA,857829,559472,Bharatiya Janata Party - BJP
+Uttar Pradesh,Bulandshahr(14),DR BHOLA SINGH,597310,275134,Bharatiya Janata Party - BJP
+Uttar Pradesh,Aligarh(15),SATISH KUMAR GAUTAM,501834,15647,Bharatiya Janata Party - BJP
+Uttar Pradesh,Hathras(16),ANOOP PRADHAN BALMIKI,554746,247318,Bharatiya Janata Party - BJP
+Uttar Pradesh,Mathura(17),HEMAMALINI DHARMENDRA DEOL,510064,293407,Bharatiya Janata Party - BJP
+Uttar Pradesh,Agra(18),PROF S P SINGH BAGHEL,599397,271294,Bharatiya Janata Party - BJP
+Uttar Pradesh,Fatehpur Sikri(19),RAJKUMAR CHAHAR,445657,43405,Bharatiya Janata Party - BJP
+Uttar Pradesh,Bareilly(25),CHHATRA PAL SINGH GANGWAR,567127,34804,Bharatiya Janata Party - BJP
+Uttar Pradesh,Pilibhit(26),JITIN PRASADA,607158,164935,Bharatiya Janata Party - BJP
+Uttar Pradesh,Shahjahanpur(27),ARUN KUMAR SAGAR,592718,55379,Bharatiya Janata Party - BJP
+Uttar Pradesh,Hardoi(31),JAI PRAKASH,486798,27856,Bharatiya Janata Party - BJP
+Uttar Pradesh,Misrikh(32),ASHOK KUMAR RAWAT,475016,33406,Bharatiya Janata Party - BJP
+Uttar Pradesh,Unnao(33),SWAMI SACHCHIDANAND HARI SAKSHI,616133,35818,Bharatiya Janata Party - BJP
+Uttar Pradesh,Lucknow(35),RAJ NATH SINGH,612709,135159,Bharatiya Janata Party - BJP
+Uttar Pradesh,Farrukhabad(40),MUKESH RAJPUT,487963,2678,Bharatiya Janata Party - BJP
+Uttar Pradesh,Kanpur(43),RAMESH AWASTHI,443055,20968,Bharatiya Janata Party - BJP
+Uttar Pradesh,Akbarpur(44),DEVENDRA SINGH ALIAS BHOLE SINGH,517423,44345,Bharatiya Janata Party - BJP
+Uttar Pradesh,Jhansi(46),ANURAG SHARMA,690316,102614,Bharatiya Janata Party - BJP
+Uttar Pradesh,Phulpur(51),PRAVEEN PATEL,452600,4332,Bharatiya Janata Party - BJP
+Uttar Pradesh,Baharaich(56),ANAND KUMAR,518802,64227,Bharatiya Janata Party - BJP
+Uttar Pradesh,Kaiserganj(57),KARAN BHUSHAN SINGH,571263,148843,Bharatiya Janata Party - BJP
+Uttar Pradesh,Gonda(59),KIRTIVARDHAN SINGH,474258,46224,Bharatiya Janata Party - BJP
+Uttar Pradesh,Domariyaganj(60),JAGDAMBIKA PAL,463303,42728,Bharatiya Janata Party - BJP
+Uttar Pradesh,Maharajganj(63),PANKAJ CHAUDHARY,591310,35451,Bharatiya Janata Party - BJP
+Uttar Pradesh,Gorakhpur(64),RAVINDRA SHUKLA ALIAS RAVI KISHAN,585834,103526,Bharatiya Janata Party - BJP
+Uttar Pradesh,Kushi Nagar(65),VIJAY KUMAR DUBAY,516345,81790,Bharatiya Janata Party - BJP
+Uttar Pradesh,Deoria(66),SHASHANK MANI,504541,34842,Bharatiya Janata Party - BJP
+Uttar Pradesh,Bansgaon(67),KAMLESH PASWAN,428693,3150,Bharatiya Janata Party - BJP
+Uttar Pradesh,Varanasi(77),NARENDRA MODI,612970,152513,Bharatiya Janata Party - BJP
+Uttar Pradesh,Bhadohi(78),DR. VINOD KUMAR BIND,459982,44072,Bharatiya Janata Party - BJP
+Uttar Pradesh,Saharanpur(1),IMRAN MASOOD,547967,64542,Indian National Congress - INC
+Uttar Pradesh,Sitapur(30),RAKESH RATHOR,531138,89641,Indian National Congress - INC
+Uttar Pradesh,Rae Bareli(36),RAHUL GANDHI,687649,390030,Indian National Congress - INC
+Uttar Pradesh,Amethi(37),KISHORI LAL,539228,167196,Indian National Congress - INC
+Uttar Pradesh,Allahabad(52),UJJWAL RAMAN SINGH,462145,58795,Indian National Congress - INC
+Uttar Pradesh,Barabanki(53),TANUJ PUNIA,719927,215704,Indian National Congress - INC
+Uttar Pradesh,Bijnor(4),CHANDAN CHAUHAN,404493,37508,Rashtriya Lok Dal - RLD
+Uttar Pradesh,Baghpat(11),DR RAJKUMAR SANGWAN,488967,159459,Rashtriya Lok Dal - RLD
+Uttar Pradesh,Nagina(5),CHANDRASHEKHAR,512552,151473,Aazad Samaj Party (Kanshi Ram) - ASPKR
+Uttar Pradesh,Mirzapur(79),ANUPRIYA PATEL,471631,37810,Apna Dal (Soneylal) - ADAL
+Uttarakhand,Tehri Garhwal(1),MALA RAJYA LAKSHMI SHAH,462603,272493,Bharatiya Janata Party - BJP
+Uttarakhand,Garhwal(2),ANIL BALUNI,432159,163503,Bharatiya Janata Party - BJP
+Uttarakhand,Almora(3),AJAY TAMTA,429167,234097,Bharatiya Janata Party - BJP
+Uttarakhand,Nainital-Udhamsingh Nagar(4),AJAY BHATT,772671,334548,Bharatiya Janata Party - BJP
+Uttarakhand,Haridwar(5),TRIVENDRA SINGH RAWAT,653808,164056,Bharatiya Janata Party - BJP
+West Bengal,Coochbehar(1),JAGADISH CHANDRA BARMA BASUNIA,788375,39250,All India Trinamool Congress - AITC
+West Bengal,Jangipur(9),KHALILUR RAHAMAN,544427,116637,All India Trinamool Congress - AITC
+West Bengal,Baharampur(10),PATHAN YUSUF,524516,85022,All India Trinamool Congress - AITC
+West Bengal,Murshidabad(11),ABU TAHER KHAN,682442,164215,All India Trinamool Congress - AITC
+West Bengal,Krishnanagar(12),MAHUA MOITRA,628789,56705,All India Trinamool Congress - AITC
+West Bengal,Barrackpur(15),PARTHA BHOWMICK,520231,64438,All India Trinamool Congress - AITC
+West Bengal,Dum dum(16),SOUGATA RAY,528579,70660,All India Trinamool Congress - AITC
+West Bengal,Barasat(17),KAKOLI GHOSH DASTIDAR,692010,114189,All India Trinamool Congress - AITC
+West Bengal,Basirhat(18),SK NURUL ISLAM,803762,333547,All India Trinamool Congress - AITC
+West Bengal,Joynagar(19),PRATIMA MONDAL,894312,470219,All India Trinamool Congress - AITC
+West Bengal,Mathurapur(20),BAPI HALDAR,755731,201057,All India Trinamool Congress - AITC
+West Bengal,Diamond harbour(21),ABHISHEK BANERJEE,1048230,710930,All India Trinamool Congress - AITC
+West Bengal,Jadavpur(22),SAYANI GHOSH,717899,258201,All India Trinamool Congress - AITC
+West Bengal,Kolkata Dakshin(23),MALA ROY,615274,187231,All India Trinamool Congress - AITC
+West Bengal,Kolkata Uttar(24),BANDYOPADHYAY SUDIP,454696,92560,All India Trinamool Congress - AITC
+West Bengal,Howrah(25),PRASUN BANERJEE,626493,169442,All India Trinamool Congress - AITC
+West Bengal,Uluberia(26),SAJDA AHMED,724622,218673,All India Trinamool Congress - AITC
+West Bengal,Srerampur(27),KALYAN BANERJEE,673970,174830,All India Trinamool Congress - AITC
+West Bengal,Hooghly(28),RACHNA BANERJEE,702744,76853,All India Trinamool Congress - AITC
+West Bengal,Arambagh(29),BAG MITALI,712587,6399,All India Trinamool Congress - AITC
+West Bengal,Ghatal(32),ADHIKARI DEEPAK (DEV),837990,182868,All India Trinamool Congress - AITC
+West Bengal,Jhargram(33),KALIPADA SAREN (KHERWAL),743478,174048,All India Trinamool Congress - AITC
+West Bengal,Medinipur(34),JUNE MALIAH,702192,27191,All India Trinamool Congress - AITC
+West Bengal,Bankura(36),ARUP CHAKRABORTY,641813,32778,All India Trinamool Congress - AITC
+West Bengal,Bardhaman Purba(38),DR. SHARMILA SARKAR,720302,160572,All India Trinamool Congress - AITC
+West Bengal,Bardhaman-Durgapur(39),AZAD KIRTI JHA,720667,137981,All India Trinamool Congress - AITC
+West Bengal,Asansol(40),SHATRUGHAN PRASAD SINHA,605645,59564,All India Trinamool Congress - AITC
+West Bengal,Bolpur(41),ASIT KUMAR MAL,855633,327253,All India Trinamool Congress - AITC
+West Bengal,Birbhum(42),SATABDI ROY,717961,197650,All India Trinamool Congress - AITC
+West Bengal,Alipurduars(2),MANOJ TIGGA,695314,75447,Bharatiya Janata Party - BJP
+West Bengal,Jalpaiguri(3),DR JAYANTA KUMAR ROY,766568,86693,Bharatiya Janata Party - BJP
+West Bengal,Darjeeling(4),RAJU BISTA,679331,178525,Bharatiya Janata Party - BJP
+West Bengal,Raiganj(5),KARTICK CHANDRA PAUL,560897,68197,Bharatiya Janata Party - BJP
+West Bengal,Balurghat(6),SUKANTA MAJUMDAR,574996,10386,Bharatiya Janata Party - BJP
+West Bengal,Maldaha Uttar(7),KHAGEN MURMU,527023,77708,Bharatiya Janata Party - BJP
+West Bengal,Ranaghat(13),JAGANNATH SARKAR,782396,186899,Bharatiya Janata Party - BJP
+West Bengal,Bangaon(14),SHANTANU THAKUR,719505,73693,Bharatiya Janata Party - BJP
+West Bengal,Tamluk(30),ABHIJIT GANGOPADHYAY,765584,77733,Bharatiya Janata Party - BJP
+West Bengal,Kanthi(31),ADHIKARI SOUMENDU,763195,47764,Bharatiya Janata Party - BJP
+West Bengal,Purulia(35),JYOTIRMAY SINGH MAHATO,578489,17079,Bharatiya Janata Party - BJP
+West Bengal,Bishnupur(37),KHAN SAUMITRA,680130,5567,Bharatiya Janata Party - BJP
+West Bengal,Maldaha Dakshin(8),ISHA KHAN CHOUDHURY,572395,128368,Indian National Congress - INC
